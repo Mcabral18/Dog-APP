@@ -2,9 +2,9 @@
 
 ---
 
-- [x] Add search form to page
+- [x] Add a button to send an api request
 - [x] Update state when input changes
-- [x] Make API Request with search term when form is submitted
+- [x] Make API Request with @click.prevent
 - [x] Show loading image
 - [x] Append Results to the page
 - [x] Hide loading image
